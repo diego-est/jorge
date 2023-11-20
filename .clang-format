@@ -1,0 +1,4 @@
+BasedOnStyle : LLVM IndentWidth : 8 UseTab
+    : Always AllowShortIfStatementsOnASingleLine : false IndentCaseLabels
+    : false PointerAlignment : Left AllowShortFunctionsOnASingleLine
+    : None BreakBeforeBraces : Custom BraceWrapping : AfterFunction : true
